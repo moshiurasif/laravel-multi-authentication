@@ -1,5 +1,7 @@
 # Laravel Multi-Level Authentication
 
+![Laravel User-Admin Authentication](./img/l_m_l_auth.png)
+
 ## Installation
 
 Create a laravel project
